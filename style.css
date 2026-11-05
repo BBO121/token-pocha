@@ -2,3 +2,38 @@
 
 /* Episode manuscript layout; scoped to the archive reader. */
 .episode-row{grid-template-columns:minmax(0,1fr) 85px 65px;font-size:12px;padding:8px 0}.episode-scene{color:var(--gold);margin:24px 0 12px;border-bottom:1px solid var(--line);padding-bottom:6px}#episode-content .dialogue p,#episode-content .narration{white-space:pre-wrap}#episode-close{position:sticky;top:0;background:var(--panel);z-index:1}#episode-dialog{overscroll-behavior:contain}body:has(#episode-dialog[open]){overflow:hidden}@media(max-width:650px){.episode-row{grid-template-columns:minmax(0,1fr) 55px 58px;gap:6px}.episode-row .badge{grid-column:auto}}
+
+/* Compact script reader: speaker and original dialogue share one line. */
+#episode-content .dialogue{padding:2px 0;border:0;font-size:13px;line-height:1.65;overflow-wrap:anywhere}
+#episode-content .dialogue strong{font-size:inherit;margin-right:.25em}
+#episode-content .dialogue p{display:inline;margin:0;font-size:inherit}
+#episode-content .narration{margin:4px 0;line-height:1.65}
+#episode-content .narration:empty{display:none}
+#episode-content .episode-scene{margin:16px 0 6px;padding:0;border:0;font-size:14px}
+
+/* Restore the original dashboard composition without affecting other pages. */
+.home-dashboard .home-intro{position:relative;overflow:hidden;margin:0 0 16px;padding:20px 22px;background:radial-gradient(ellipse at 90% 35%,#60432755,transparent 65%),var(--panel);border:1px solid #665034;border-radius:6px}
+.home-dashboard .home-intro h1{font-size:22px;line-height:1.5;margin:0 0 6px;position:relative;z-index:1}
+.home-dashboard .home-intro .subtitle{font-size:13px;margin:0;position:relative;z-index:1;max-width:85%}
+.home-seal{position:absolute;right:22px;top:-20px;color:#cfad7812;font:130px/1.3 serif;transform:rotate(-12deg);pointer-events:none}
+.home-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-bottom:20px}
+.home-stat{padding:11px 14px;background:var(--panel);border:1px solid var(--line);border-radius:5px;display:flex;flex-direction:column}
+.home-stat strong{font-size:22px;line-height:1.3;color:var(--gold);font-weight:400;font-variant-numeric:tabular-nums}
+.home-stat span{font-size:11px;color:var(--muted);margin-top:4px}
+.home-section-heading{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin:18px 0 10px}
+.home-section-heading h2{font-size:16px;margin:0}
+.home-section-heading>span,.home-section-heading>a{font-size:11px;color:var(--muted)}
+.home-section-heading>a{color:var(--gold)}
+.home-drawers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.home-drawer{display:flex;gap:12px;padding:15px;background:var(--panel);border:1px solid var(--line);border-radius:5px;min-width:0;align-items:flex-start}
+.home-drawer:hover{border-color:var(--gold);background:#2c241a}
+.home-drawer-icon{display:inline-flex;flex-shrink:0;align-items:center;justify-content:center;width:32px;height:32px;font-size:18px;color:var(--gold);border:1px solid #59462e;border-radius:5px;background:#342a1e}
+.home-drawer h3{font-size:15px;margin:0 0 4px}.home-drawer h3 span{color:var(--gold);font-size:12px}
+.home-drawer p{font-size:12px;margin:0 0 5px;color:var(--muted)}.home-drawer small{font-size:11px;color:var(--gold)}
+.home-columns{display:grid;grid-template-columns:1.35fr 1fr;gap:16px;margin-top:4px}
+.home-columns>section{min-width:0}.home-panel{border:1px solid var(--line);border-radius:5px;background:var(--panel);padding:2px 14px}
+.home-person{display:block;padding:10px 0;border-bottom:1px solid var(--line)}.home-person:last-child,.home-note:last-child{border-bottom:0}
+.home-person strong{font-size:12px;color:var(--gold);font-weight:400}.home-person p{margin:3px 0 0;font-size:12px;color:var(--muted)}
+.home-note{padding:10px 0;border-bottom:1px solid var(--line)}.home-note p{font-size:12px;color:var(--muted);margin:4px 0 0}
+@media(max-width:1050px){.home-drawers{grid-template-columns:repeat(2,minmax(0,1fr))}.home-columns{grid-template-columns:1fr}}
+@media(max-width:650px){.home-dashboard .home-intro{padding:16px}.home-dashboard .home-intro h1{font-size:20px}.home-dashboard .home-intro .subtitle{max-width:100%}.home-stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.home-drawers{grid-template-columns:1fr}.home-drawer{padding:12px}.home-seal{right:8px}.home-section-heading{flex-wrap:wrap}}
