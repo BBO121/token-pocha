@@ -1,1 +1,10 @@
-{"name":"token-pocha","version":"1.0.0","private":true,"description":"Token Pocha private local archive","scripts":{"start":"node server.cjs","check":"node --check app.js && node --check server.cjs && node check.cjs"}}
+{
+  "name": "token-pocha",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Token Pocha private local archive",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node --check app.js && node --check server.cjs && node check.cjs && node import-episodes.cjs"
+  }
+}
