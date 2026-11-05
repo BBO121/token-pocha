@@ -1,0 +1,46 @@
+/* Local copies of the webfonts linked by Noonnu. See assets/fonts/LICENSES.md. */
+@font-face {
+  font-family: 'JoseonGulim';
+  src: url('assets/fonts/ChosunGu.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IsYun';
+  src: url('assets/fonts/LeeSeoyun.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GangwonEducationModuche';
+  src: url('assets/fonts/GangwonEdu_OTFLightA.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GangwonEducationModuche';
+  src: url('assets/fonts/GangwonEdu_OTFBoldA.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Readable UI, warm archive titles, and handwritten tavern stories. */
+body { font-family: 'JoseonGulim', 'Malgun Gothic', system-ui, sans-serif; }
+h1, h2, h3, .brand {
+  font-family: 'GangwonEducationModuche', 'Malgun Gothic', serif;
+  font-weight: 700;
+}
+.hero h2, .card .body-text, .sidebar-bottom p {
+  font-family: 'IsYun', 'JoseonGulim', sans-serif;
+  font-weight: 400;
+}
+.hero h2 { font-size: 34px; line-height: 1.4; }
+.card .body-text { font-size: 20px; line-height: 1.8; }
+.sidebar-bottom p { font-size: 16px; line-height: 1.6; }
+@media (max-width: 650px) {
+  .hero h2 { font-size: 29px; }
+}
