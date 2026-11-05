@@ -1,0 +1,1130 @@
+{
+  "version": 1,
+  "title": "토큰포차",
+  "characters": [
+    {
+      "id": "c001",
+      "name": "인터넷 익스플로러 (IE)",
+      "gender": "남",
+      "categories": [
+        "토큰포차와 인터넷 원로"
+      ],
+      "description": "은퇴한 브라우저 출신 포차 사장. 느긋한 할아버지. '허허'가 말버릇.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c002",
+      "name": "와이파이 (Wi-Fi)",
+      "gender": "남",
+      "categories": [
+        "토큰포차와 인터넷 원로"
+      ],
+      "description": "명랑하고 사교적인 바텐더. 수파의 고민을 들어 주는 친구.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c003",
+      "name": "WWW",
+      "gender": "남",
+      "categories": [
+        "토큰포차와 인터넷 원로"
+      ],
+      "description": "인터넷 세계의 존경받는 원로 할아버지.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c004",
+      "name": "2G — 이지",
+      "gender": "남",
+      "categories": [
+        "통신망 가족"
+      ],
+      "description": "최고참 원로. IE와 동년배에 가까운 오랜 친구. 은퇴한 베테랑.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c005",
+      "name": "3G — 삼지",
+      "gender": "남",
+      "categories": [
+        "통신망 가족"
+      ],
+      "description": "느긋한 선배. 옛날 모바일 인터넷 전성기 이야기를 좋아함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c006",
+      "name": "4G/LTE — 엘티",
+      "gender": "남",
+      "categories": [
+        "통신망 가족"
+      ],
+      "description": "활동적이고 든든한 현역 실무 에이스. 오지의 직속 선배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c007",
+      "name": "5G — 오지",
+      "gender": "남",
+      "categories": [
+        "통신망 가족"
+      ],
+      "description": "속도에 자부심이 넘치는 자신만만한 막내. 엘티에게 자주 도움받음.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c008",
+      "name": "이더넷 (Ethernet)",
+      "gender": "남",
+      "categories": [
+        "통신망 가족"
+      ],
+      "description": "과묵하고 안정적인 유선 네트워크 전문가. 갤럭시 북과 잘 통함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c009",
+      "name": "카롱 (ChatGPT)",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "뽀의 수다 친구이자 만능 동료. 떠들썩하고 신나는 노동조합 위원장.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c010",
+      "name": "클로드 (Claude)",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "냉철하고 효율적인 개발팀장. 수파에게 SQL 업무를 자주 지시함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c011",
+      "name": "제미나이 (Gemini)",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "분석적이고 논리적인 구글 집안의 AI.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c012",
+      "name": "그록 (Grok)",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "입담이 거칠고 장난기 많은 AI.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c013",
+      "name": "뤼튼 (Wrtn)",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "친근한 AI 서비스. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c014",
+      "name": "GPT-4",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "카롱의 선배 격. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c015",
+      "name": "GPT-3.5",
+      "gender": "남",
+      "categories": [
+        "AI 업계"
+      ],
+      "description": "AI 업계의 오래된 선배. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c016",
+      "name": "종족연구소 — 종연 도련님",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "어린 도련님. 하얀 연구복과 고글. 공오를 항상 꼭 안고 다님. 모두의 사랑을 받음.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c017",
+      "name": "공오",
+      "gender": "미정",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "종연의 소중한 마스코트 친구. 늘 품에 안겨 있음.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c018",
+      "name": "수파베이스 (Supabase)",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "막내급 DB 담당. 극심한 과로와 다크서클. 겉은 극존칭, 속은 욕설. 도련님에게 약함.",
+      "status": "canon",
+      "notes": "공육이를 데리고 다니는 설정은 확정."
+    },
+    {
+      "id": "c019",
+      "name": "포크번 (Porkbun)",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "분홍머리의 해맑은 도메인 담당. 수파의 입사 동기이자 친구. 쿠키를 잘 챙겨 줌.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c020",
+      "name": "클라우드플레어 (Cloudflare)",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "과묵한 보안·트래픽 담당. 종연을 지키는 철벽 경호원.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c021",
+      "name": "리센드 (Resend)",
+      "gender": "여",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "꼼꼼하고 예민한 메일 담당. 스팸함 확인을 강조함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c022",
+      "name": "깃허브 (GitHub)",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "금발의 다정한 선배. 코드와 변경 이력을 지키는 삼촌. 브코의 연인.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c023",
+      "name": "VS Code — 브코",
+      "gender": "남",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "검은 머리의 조용한 개발자. 종연에게 예쁜 UI를 만들어 주는 삼촌. 깃허브의 연인.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c024",
+      "name": "종연 공식계정 — 홍보이모",
+      "gender": "여",
+      "categories": [
+        "종족연구소 가족"
+      ],
+      "description": "종연을 극진히 아끼는 홍보 담당. 평소 호들갑쟁이, 고객 응대 시 프로페셔널.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c025",
+      "name": "일러스트레이터 (Illustrator) — 일러레",
+      "gender": "여",
+      "categories": [
+        "종족연구소 가족",
+        "디자인·제작 업계"
+      ],
+      "description": "그림과 디자인을 담당하는 창작자이자 벡터 그래픽 전문가. 어도비 일러스트레이터와 일러레는 동일 인물. 세부 성격은 추후 확정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c026",
+      "name": "포토샵 (Photoshop)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "이미지 편집 전문가. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c027",
+      "name": "인디자인 (InDesign)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "편집·출판 전문가. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c028",
+      "name": "프리미어 프로 (Premiere Pro)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "영상 편집 전문가. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c029",
+      "name": "애프터 이펙트 (After Effects)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "모션그래픽과 특수효과 전문가. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c030",
+      "name": "파이어플라이 (Firefly)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "어도비의 생성형 AI. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c031",
+      "name": "미드저니 (Midjourney)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "이미지 생성 AI. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c032",
+      "name": "피그마 (Figma)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "UI·협업 디자인 전문가. XD와 과거 연인 관계.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c033",
+      "name": "어도비 XD",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "UI 디자인 업계의 옛 강자. 피그마의 전 연인.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c034",
+      "name": "윗치폼 (Witchform)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "굿즈 주문과 판매를 담당하는 친절한 접수원.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c035",
+      "name": "퍼블로그 (PublLog)",
+      "gender": "남",
+      "categories": [
+        "디자인·제작 업계"
+      ],
+      "description": "굿즈 인쇄·제작 장인. 해상도와 재단선에 엄격함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c036",
+      "name": "크티 (Ctee)",
+      "gender": "여",
+      "categories": [
+        "마케팅·운영팀"
+      ],
+      "description": "후원과 정산을 관리하는 웃는 얼굴의 엄격한 회계 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c037",
+      "name": "구글 애즈 (Google Ads)",
+      "gender": "남",
+      "categories": [
+        "마케팅·운영팀"
+      ],
+      "description": "광고 예산을 적극적으로 쓰고 싶어 하는 열혈 마케터.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c038",
+      "name": "구글 애널리틱스 (Google Analytics)",
+      "gender": "남",
+      "categories": [
+        "마케팅·운영팀"
+      ],
+      "description": "방문자·성과를 분석하는 데이터 전문가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c039",
+      "name": "구글 서치콘솔 (Search Console)",
+      "gender": "남",
+      "categories": [
+        "마케팅·운영팀"
+      ],
+      "description": "검색 노출과 SEO를 점검하는 꼼꼼한 전문가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c040",
+      "name": "크롬 (Chrome)",
+      "gender": "남",
+      "categories": [
+        "브라우저 업계"
+      ],
+      "description": "인기 많은 브라우저. RAM을 많이 먹는 대식가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c041",
+      "name": "파이어폭스 (Firefox)",
+      "gender": "남",
+      "categories": [
+        "브라우저 업계"
+      ],
+      "description": "독립심 강하고 불같은 성격.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c042",
+      "name": "사파리 (Safari)",
+      "gender": "여",
+      "categories": [
+        "브라우저 업계"
+      ],
+      "description": "세련되고 우아한 애플 진영의 브라우저.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c043",
+      "name": "엣지 (Edge)",
+      "gender": "남",
+      "categories": [
+        "브라우저 업계"
+      ],
+      "description": "IE의 뒤를 잇는 후계자.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c044",
+      "name": "오페라 (Opera)",
+      "gender": "남",
+      "categories": [
+        "브라우저 업계"
+      ],
+      "description": "브라우저 업계의 오래된 베테랑.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c045",
+      "name": "갤럭시 S",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "짙은 남색 머리의 책임감 강한 장남. 아이폰에게 은근히 마음이 있음.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c046",
+      "name": "갤럭시 Z 폴드",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "키 크고 안경 쓴 유능한 형. 플립의 쌍둥이 형제. 아직 뽀네 집에 입양되지 못함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c047",
+      "name": "갤럭시 Z 플립",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "발랄하고 패션 감각 좋은 쌍둥이. 뽀의 휴대폰. 쬬이 영상을 좋아함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c048",
+      "name": "갤럭시 탭 S9+ — 감자 선생님",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "검은 커버의 감자 스티커가 상징. 과거 개발자, 현재 그림 선생님. 공오의 그림을 그림.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c049",
+      "name": "구형 갤럭시 탭",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "4년 넘게 일하고 은퇴한 태블릿 선배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c050",
+      "name": "갤럭시 북",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "진지한 개발자 노트북. 귀여운 스티커를 붙이고 있음. 이더넷과 친함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c051",
+      "name": "갤럭시 워치",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "활동적이고 눈치 빠른 알림 담당. 갤럭시 S의 심박수를 폭로함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c052",
+      "name": "갤럭시 버즈2 프로",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "배터리는 지쳤지만 은퇴를 거부하는 베테랑.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c053",
+      "name": "갤럭시 버즈 후배들",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "버즈2 프로의 은퇴를 기다리는 신입들.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c054",
+      "name": "삼성카드",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "정장 입은 재무 담당 삼촌. 할인에 능숙함.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c055",
+      "name": "삼성 냉장고",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "차갑고 엄격한 할아버지. '문 닫아라. 냉기 빠진다.'",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c056",
+      "name": "삼성 보조배터리",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "작지만 든든한 에너지 보급 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c057",
+      "name": "타사 세탁기",
+      "gender": "남",
+      "categories": [
+        "갤럭시家 — 삼성 가족"
+      ],
+      "description": "삼성 가족과 함께 사는 외부인 룸메이트.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c058",
+      "name": "아이폰 (iPhone)",
+      "gender": "남",
+      "categories": [
+        "애플 가족"
+      ],
+      "description": "은발의 우아한 스마트폰. 갤럭시 S와 라이벌이자 묘한 관계.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c059",
+      "name": "맥 (Mac)",
+      "gender": "남",
+      "categories": [
+        "애플 가족"
+      ],
+      "description": "애플의 컴퓨터. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c060",
+      "name": "아이패드 (iPad)",
+      "gender": "남",
+      "categories": [
+        "애플 가족"
+      ],
+      "description": "애플의 태블릿. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c061",
+      "name": "에어팟 (AirPods)",
+      "gender": "남",
+      "categories": [
+        "애플 가족"
+      ],
+      "description": "애플의 무선 이어폰. 세부 성격 미정.",
+      "status": "canon",
+      "notes": "세부 성격은 확인 필요"
+    },
+    {
+      "id": "c062",
+      "name": "알파벳 (Alphabet)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "구글 계열을 이끄는 상위 조직의 수장.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c063",
+      "name": "구글 검색 (Search)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "정보 탐색 전문가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c064",
+      "name": "유튜브 (YouTube)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "영상계의 인기 스타.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c065",
+      "name": "지메일 (Gmail)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "메일 담당 베테랑.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c066",
+      "name": "구글 지도 (Maps)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "길 찾기와 위치 정보 전문가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c067",
+      "name": "구글 드라이브 (Drive)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "파일 보관과 공유 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c068",
+      "name": "구글 포토 (Photos)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "사진 보관과 정리 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c069",
+      "name": "구글 번역 (Translate)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "다국어 통역 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c070",
+      "name": "구글 캘린더 (Calendar)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "일정 관리 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c071",
+      "name": "안드로이드 (Android)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "갤럭시 가족과 가까운 운영체제.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c072",
+      "name": "유튜브 프리미엄 (Premium)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "레드의 현재 모습. 유튜브 레드(YouTube Red)와 동일 인물.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c073",
+      "name": "구글+ (Google+)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "은퇴한 SNS 선배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c074",
+      "name": "행아웃 (Hangouts)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "은퇴 후 여행 중인 메신저 선배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c075",
+      "name": "구글 챗 (Google Chat)",
+      "gender": "남",
+      "categories": [
+        "구글 대가족"
+      ],
+      "description": "업무용 메신저 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c076",
+      "name": "메타 (Meta)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "SNS 대가족의 수장.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c077",
+      "name": "페이스북 (Facebook)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "SNS 업계의 오래된 선배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c078",
+      "name": "인스타그램 (Instagram)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "사진과 이미지에 능한 인기인.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c079",
+      "name": "왓츠앱 (WhatsApp)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "메신저 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c080",
+      "name": "오큘러스 (Oculus)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "VR 세계 전문가.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c081",
+      "name": "스레드 (Threads)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "SNS 업계의 비교적 젊은 후배.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c082",
+      "name": "트위터 / X",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "과거 파란 머리의 순수한 청년, 현재 검은 머리의 냉소적인 상사. 동일 인물.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c083",
+      "name": "틱톡 (TikTok)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "짧은 영상과 유행에 민감한 인기인.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c084",
+      "name": "스냅챗 (Snapchat)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "장난기 많은 사진·메신저 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c085",
+      "name": "쇼츠 (Shorts)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "유튜브의 숏폼 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c086",
+      "name": "릴스 (Reels)",
+      "gender": "남",
+      "categories": [
+        "SNS·플랫폼 업계"
+      ],
+      "description": "인스타그램의 숏폼 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c087",
+      "name": "윈도우 (Windows)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "PC 운영체제 업계의 큰형.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c088",
+      "name": "깃허브 액션 (GitHub Actions)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "자동화 작업 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c089",
+      "name": "깃허브 이슈 (GitHub Issues)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "문제와 작업 목록 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c090",
+      "name": "디펜다봇 (Dependabot)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "의존성 업데이트를 챙기는 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c091",
+      "name": "깃허브 페이지스 (GitHub Pages)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "정적 웹사이트 호스팅 담당.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c092",
+      "name": "깃허브 코파일럿 (Copilot)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "코딩 보조 AI.",
+      "status": "canon",
+      "notes": ""
+    },
+    {
+      "id": "c093",
+      "name": "블랙베리 (BlackBerry)",
+      "gender": "남",
+      "categories": [
+        "개발 도구와 기타"
+      ],
+      "description": "물리 키보드에 자부심이 있는 은퇴한 스마트폰 선배.",
+      "status": "canon",
+      "notes": ""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "c022",
+      "to": "c023",
+      "label": "연인",
+      "status": "canon"
+    },
+    {
+      "from": "c032",
+      "to": "c033",
+      "label": "과거 연인",
+      "status": "canon"
+    },
+    {
+      "from": "c045",
+      "to": "c058",
+      "label": "라이벌 · 묘한 관계",
+      "status": "canon"
+    },
+    {
+      "from": "c019",
+      "to": "c018",
+      "label": "입사 동기 · 친구",
+      "status": "canon"
+    },
+    {
+      "from": "c002",
+      "to": "c018",
+      "label": "고민을 들어 주는 친구",
+      "status": "canon"
+    },
+    {
+      "from": "c004",
+      "to": "c001",
+      "label": "오랜 친구",
+      "status": "canon"
+    },
+    {
+      "from": "c050",
+      "to": "c008",
+      "label": "잘 통하는 친구",
+      "status": "canon"
+    },
+    {
+      "from": "c016",
+      "to": "c017",
+      "label": "소중한 마스코트",
+      "status": "canon"
+    },
+    {
+      "from": "c006",
+      "to": "c007",
+      "label": "직속 선후배",
+      "status": "canon"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "수파의 휴가",
+      "body": "뽀: “처음엔 JSON으로 할 거야!”\n수파가 조용히 공육이를 끌어안는다.\n수파: “……공육아. 우리 휴가 간다.”",
+      "status": "draft"
+    }
+  ],
+  "staff": [
+    {
+      "characterId": "c001",
+      "role": "포차 사장",
+      "status": "canon"
+    },
+    {
+      "characterId": "c002",
+      "role": "바텐더",
+      "status": "canon"
+    },
+    {
+      "name": "미확인 직원 1",
+      "role": "이름 · 역할 확인 필요",
+      "status": "needs-confirmation"
+    },
+    {
+      "name": "미확인 직원 2",
+      "role": "이름 · 역할 확인 필요",
+      "status": "needs-confirmation"
+    }
+  ],
+  "menu": [
+    {
+      "title": "오늘의 메뉴 아이디어",
+      "body": "아직 확정된 메뉴가 없어요. 편집실에서 첫 메뉴를 적어 주세요.",
+      "status": "draft"
+    }
+  ],
+  "chronology": [
+    {
+      "year": "1989",
+      "title": "연대기 시작점",
+      "body": "1989년부터 현재까지의 세계관 기록. 구체적인 사건과 날짜는 확인 후 추가합니다.",
+      "status": "needs-confirmation"
+    }
+  ]
+}
