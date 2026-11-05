@@ -11,7 +11,8 @@
       ],
       "description": "은퇴한 브라우저 출신 포차 사장. 느긋한 할아버지. '허허'가 말버릇.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Internet Explorer"
     },
     {
       "id": "c002",
@@ -22,7 +23,8 @@
       ],
       "description": "명랑하고 사교적인 바텐더. 수파의 고민을 들어 주는 친구.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Wi-Fi"
     },
     {
       "id": "c003",
@@ -44,7 +46,8 @@
       ],
       "description": "최고참 원로. IE와 동년배에 가까운 오랜 친구. 은퇴한 베테랑.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "이지"
     },
     {
       "id": "c005",
@@ -55,7 +58,8 @@
       ],
       "description": "느긋한 선배. 옛날 모바일 인터넷 전성기 이야기를 좋아함.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "삼지"
     },
     {
       "id": "c006",
@@ -66,7 +70,8 @@
       ],
       "description": "활동적이고 든든한 현역 실무 에이스. 오지의 직속 선배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "엘티"
     },
     {
       "id": "c007",
@@ -77,7 +82,8 @@
       ],
       "description": "속도에 자부심이 넘치는 자신만만한 막내. 엘티에게 자주 도움받음.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "오지"
     },
     {
       "id": "c008",
@@ -88,7 +94,8 @@
       ],
       "description": "과묵하고 안정적인 유선 네트워크 전문가. 갤럭시 북과 잘 통함.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Ethernet"
     },
     {
       "id": "c009",
@@ -99,7 +106,8 @@
       ],
       "description": "뽀의 수다 친구이자 만능 동료. 떠들썩하고 신나는 노동조합 위원장.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "ChatGPT"
     },
     {
       "id": "c010",
@@ -110,7 +118,8 @@
       ],
       "description": "냉철하고 효율적인 개발팀장. 수파에게 SQL 업무를 자주 지시함.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Claude"
     },
     {
       "id": "c011",
@@ -121,7 +130,8 @@
       ],
       "description": "분석적이고 논리적인 구글 집안의 AI.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Gemini"
     },
     {
       "id": "c012",
@@ -132,7 +142,8 @@
       ],
       "description": "입담이 거칠고 장난기 많은 AI.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Grok"
     },
     {
       "id": "c013",
@@ -143,7 +154,8 @@
       ],
       "description": "친근한 AI 서비스. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Wrtn"
     },
     {
       "id": "c014",
@@ -176,7 +188,8 @@
       ],
       "description": "어린 도련님. 하얀 연구복과 고글. 공오를 항상 꼭 안고 다님. 모두의 사랑을 받음.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "종연 도련님"
     },
     {
       "id": "c017",
@@ -198,7 +211,9 @@
       ],
       "description": "막내급 DB 담당. 극심한 과로와 다크서클. 겉은 극존칭, 속은 욕설. 도련님에게 약함.",
       "status": "canon",
-      "notes": "공육이를 데리고 다니는 설정은 확정."
+      "notes": "공육이를 데리고 다니는 설정은 확정.",
+      "englishName": "Supabase",
+      "affiliation": "종족연구소 / DB 담당"
     },
     {
       "id": "c019",
@@ -209,7 +224,9 @@
       ],
       "description": "분홍머리의 해맑은 도메인 담당. 수파의 입사 동기이자 친구. 쿠키를 잘 챙겨 줌.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Porkbun",
+      "affiliation": "종족연구소 / 도메인 담당"
     },
     {
       "id": "c020",
@@ -220,7 +237,9 @@
       ],
       "description": "과묵한 보안·트래픽 담당. 종연을 지키는 철벽 경호원.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Cloudflare",
+      "affiliation": "종족연구소 / 보안·트래픽 담당"
     },
     {
       "id": "c021",
@@ -231,7 +250,9 @@
       ],
       "description": "꼼꼼하고 예민한 메일 담당. 스팸함 확인을 강조함.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Resend",
+      "affiliation": "종족연구소 / 메일 담당"
     },
     {
       "id": "c022",
@@ -242,7 +263,8 @@
       ],
       "description": "금발의 다정한 선배. 코드와 변경 이력을 지키는 삼촌. 브코의 연인.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "GitHub"
     },
     {
       "id": "c023",
@@ -253,7 +275,8 @@
       ],
       "description": "검은 머리의 조용한 개발자. 종연에게 예쁜 UI를 만들어 주는 삼촌. 깃허브의 연인.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "브코"
     },
     {
       "id": "c024",
@@ -264,7 +287,10 @@
       ],
       "description": "종연을 극진히 아끼는 홍보 담당. 평소 호들갑쟁이, 고객 응대 시 프로페셔널.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "홍보이모",
+      "affiliation": "종족연구소 / 홍보 담당",
+      "englishName": "Official X"
     },
     {
       "id": "c025",
@@ -276,7 +302,14 @@
       ],
       "description": "그림과 디자인을 담당하는 창작자이자 벡터 그래픽 전문가. 어도비 일러스트레이터와 일러레는 동일 인물. 세부 성격은 추후 확정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Illustrator",
+      "nickname": "일러레",
+      "aliases": [
+        "Illustrator",
+        "일러스트레이터",
+        "일러레"
+      ]
     },
     {
       "id": "c026",
@@ -287,7 +320,8 @@
       ],
       "description": "이미지 편집 전문가. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Photoshop"
     },
     {
       "id": "c027",
@@ -298,7 +332,8 @@
       ],
       "description": "편집·출판 전문가. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "InDesign"
     },
     {
       "id": "c028",
@@ -309,7 +344,8 @@
       ],
       "description": "영상 편집 전문가. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Premiere Pro"
     },
     {
       "id": "c029",
@@ -320,7 +356,8 @@
       ],
       "description": "모션그래픽과 특수효과 전문가. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "After Effects"
     },
     {
       "id": "c030",
@@ -331,7 +368,8 @@
       ],
       "description": "어도비의 생성형 AI. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Firefly"
     },
     {
       "id": "c031",
@@ -342,7 +380,8 @@
       ],
       "description": "이미지 생성 AI. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Midjourney"
     },
     {
       "id": "c032",
@@ -353,7 +392,8 @@
       ],
       "description": "UI·협업 디자인 전문가. XD와 과거 연인 관계.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Figma"
     },
     {
       "id": "c033",
@@ -375,7 +415,8 @@
       ],
       "description": "굿즈 주문과 판매를 담당하는 친절한 접수원.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Witchform"
     },
     {
       "id": "c035",
@@ -386,7 +427,8 @@
       ],
       "description": "굿즈 인쇄·제작 장인. 해상도와 재단선에 엄격함.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "PublLog"
     },
     {
       "id": "c036",
@@ -397,7 +439,8 @@
       ],
       "description": "후원과 정산을 관리하는 웃는 얼굴의 엄격한 회계 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Ctee"
     },
     {
       "id": "c037",
@@ -408,7 +451,8 @@
       ],
       "description": "광고 예산을 적극적으로 쓰고 싶어 하는 열혈 마케터.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Google Ads"
     },
     {
       "id": "c038",
@@ -419,7 +463,8 @@
       ],
       "description": "방문자·성과를 분석하는 데이터 전문가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Google Analytics"
     },
     {
       "id": "c039",
@@ -430,7 +475,8 @@
       ],
       "description": "검색 노출과 SEO를 점검하는 꼼꼼한 전문가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Search Console"
     },
     {
       "id": "c040",
@@ -441,7 +487,8 @@
       ],
       "description": "인기 많은 브라우저. RAM을 많이 먹는 대식가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Chrome"
     },
     {
       "id": "c041",
@@ -452,7 +499,8 @@
       ],
       "description": "독립심 강하고 불같은 성격.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Firefox"
     },
     {
       "id": "c042",
@@ -463,7 +511,8 @@
       ],
       "description": "세련되고 우아한 애플 진영의 브라우저.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Safari"
     },
     {
       "id": "c043",
@@ -474,7 +523,8 @@
       ],
       "description": "IE의 뒤를 잇는 후계자.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Edge"
     },
     {
       "id": "c044",
@@ -485,7 +535,8 @@
       ],
       "description": "브라우저 업계의 오래된 베테랑.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Opera"
     },
     {
       "id": "c045",
@@ -529,7 +580,8 @@
       ],
       "description": "검은 커버의 감자 스티커가 상징. 과거 개발자, 현재 그림 선생님. 공오의 그림을 그림.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "nickname": "감자 선생님"
     },
     {
       "id": "c049",
@@ -639,7 +691,8 @@
       ],
       "description": "은발의 우아한 스마트폰. 갤럭시 S와 라이벌이자 묘한 관계.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "iPhone"
     },
     {
       "id": "c059",
@@ -650,7 +703,8 @@
       ],
       "description": "애플의 컴퓨터. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "Mac"
     },
     {
       "id": "c060",
@@ -661,7 +715,8 @@
       ],
       "description": "애플의 태블릿. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "iPad"
     },
     {
       "id": "c061",
@@ -672,7 +727,8 @@
       ],
       "description": "애플의 무선 이어폰. 세부 성격 미정.",
       "status": "canon",
-      "notes": "세부 성격은 확인 필요"
+      "notes": "세부 성격은 확인 필요",
+      "englishName": "AirPods"
     },
     {
       "id": "c062",
@@ -683,7 +739,8 @@
       ],
       "description": "구글 계열을 이끄는 상위 조직의 수장.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Alphabet"
     },
     {
       "id": "c063",
@@ -694,7 +751,8 @@
       ],
       "description": "정보 탐색 전문가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Search"
     },
     {
       "id": "c064",
@@ -705,7 +763,8 @@
       ],
       "description": "영상계의 인기 스타.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "YouTube"
     },
     {
       "id": "c065",
@@ -716,7 +775,8 @@
       ],
       "description": "메일 담당 베테랑.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Gmail"
     },
     {
       "id": "c066",
@@ -727,7 +787,8 @@
       ],
       "description": "길 찾기와 위치 정보 전문가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Maps"
     },
     {
       "id": "c067",
@@ -738,7 +799,8 @@
       ],
       "description": "파일 보관과 공유 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Drive"
     },
     {
       "id": "c068",
@@ -749,7 +811,8 @@
       ],
       "description": "사진 보관과 정리 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Photos"
     },
     {
       "id": "c069",
@@ -760,7 +823,8 @@
       ],
       "description": "다국어 통역 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Translate"
     },
     {
       "id": "c070",
@@ -771,7 +835,8 @@
       ],
       "description": "일정 관리 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Calendar"
     },
     {
       "id": "c071",
@@ -782,7 +847,8 @@
       ],
       "description": "갤럭시 가족과 가까운 운영체제.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Android"
     },
     {
       "id": "c072",
@@ -793,7 +859,14 @@
       ],
       "description": "레드의 현재 모습. 유튜브 레드(YouTube Red)와 동일 인물.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Premium",
+      "aliases": [
+        "YouTube Red",
+        "YouTube Premium",
+        "유튜브 레드",
+        "유튜브 프리미엄"
+      ]
     },
     {
       "id": "c073",
@@ -804,7 +877,8 @@
       ],
       "description": "은퇴한 SNS 선배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Google+"
     },
     {
       "id": "c074",
@@ -815,7 +889,8 @@
       ],
       "description": "은퇴 후 여행 중인 메신저 선배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Hangouts"
     },
     {
       "id": "c075",
@@ -826,7 +901,8 @@
       ],
       "description": "업무용 메신저 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Google Chat"
     },
     {
       "id": "c076",
@@ -837,7 +913,8 @@
       ],
       "description": "SNS 대가족의 수장.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Meta"
     },
     {
       "id": "c077",
@@ -848,7 +925,8 @@
       ],
       "description": "SNS 업계의 오래된 선배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Facebook"
     },
     {
       "id": "c078",
@@ -859,7 +937,8 @@
       ],
       "description": "사진과 이미지에 능한 인기인.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Instagram"
     },
     {
       "id": "c079",
@@ -870,7 +949,8 @@
       ],
       "description": "메신저 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "WhatsApp"
     },
     {
       "id": "c080",
@@ -881,7 +961,8 @@
       ],
       "description": "VR 세계 전문가.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Oculus"
     },
     {
       "id": "c081",
@@ -892,7 +973,8 @@
       ],
       "description": "SNS 업계의 비교적 젊은 후배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Threads"
     },
     {
       "id": "c082",
@@ -903,7 +985,12 @@
       ],
       "description": "과거 파란 머리의 순수한 청년, 현재 검은 머리의 냉소적인 상사. 동일 인물.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "aliases": [
+        "Twitter",
+        "X",
+        "트위터"
+      ]
     },
     {
       "id": "c083",
@@ -914,7 +1001,8 @@
       ],
       "description": "짧은 영상과 유행에 민감한 인기인.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "TikTok"
     },
     {
       "id": "c084",
@@ -925,7 +1013,8 @@
       ],
       "description": "장난기 많은 사진·메신저 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Snapchat"
     },
     {
       "id": "c085",
@@ -936,7 +1025,8 @@
       ],
       "description": "유튜브의 숏폼 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Shorts"
     },
     {
       "id": "c086",
@@ -947,7 +1037,8 @@
       ],
       "description": "인스타그램의 숏폼 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Reels"
     },
     {
       "id": "c087",
@@ -958,7 +1049,20 @@
       ],
       "description": "PC 운영체제 업계의 큰형.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Windows",
+      "aliases": [
+        "Windows 95",
+        "Windows 98",
+        "Windows Me",
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7",
+        "Windows 8",
+        "Windows 8.1",
+        "Windows 10",
+        "Windows 11"
+      ]
     },
     {
       "id": "c088",
@@ -969,7 +1073,8 @@
       ],
       "description": "자동화 작업 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "GitHub Actions"
     },
     {
       "id": "c089",
@@ -980,7 +1085,8 @@
       ],
       "description": "문제와 작업 목록 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "GitHub Issues"
     },
     {
       "id": "c090",
@@ -991,7 +1097,8 @@
       ],
       "description": "의존성 업데이트를 챙기는 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Dependabot"
     },
     {
       "id": "c091",
@@ -1002,7 +1109,8 @@
       ],
       "description": "정적 웹사이트 호스팅 담당.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "GitHub Pages"
     },
     {
       "id": "c092",
@@ -1013,7 +1121,8 @@
       ],
       "description": "코딩 보조 AI.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "Copilot"
     },
     {
       "id": "c093",
@@ -1024,7 +1133,8 @@
       ],
       "description": "물리 키보드에 자부심이 있는 은퇴한 스마트폰 선배.",
       "status": "canon",
-      "notes": ""
+      "notes": "",
+      "englishName": "BlackBerry"
     }
   ],
   "relationships": [
@@ -1081,6 +1191,24 @@
       "to": "c007",
       "label": "직속 선후배",
       "status": "canon"
+    },
+    {
+      "from": "c046",
+      "to": "c047",
+      "label": "쌍둥이 형제",
+      "status": "canon"
+    },
+    {
+      "from": "c010",
+      "to": "c018",
+      "label": "상사 · DB 담당 부하",
+      "status": "canon"
+    },
+    {
+      "from": "c018",
+      "to": "c016",
+      "label": "소중히 여기는 도련님",
+      "status": "canon"
     }
   ],
   "episodes": [
@@ -1121,10 +1249,754 @@
   ],
   "chronology": [
     {
-      "year": "1989",
-      "title": "연대기 시작점",
-      "body": "1989년부터 현재까지의 세계관 기록. 구체적인 사건과 날짜는 확인 후 추가합니다.",
-      "status": "needs-confirmation"
+      "year": "1995",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 95로 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "1995-08-24"
+    },
+    {
+      "year": "1998",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 98로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "1998-06-25"
+    },
+    {
+      "year": "2000",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows Me로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/source/2000/09/14/microsoft-announces-immediate-availability-of-windows-millennium-edition-windows-me/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2000-09-14"
+    },
+    {
+      "year": "2001",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows XP로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2001-10-25"
+    },
+    {
+      "year": "2007",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows Vista로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2007-01-30"
+    },
+    {
+      "year": "2009",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 7로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2009-10-22"
+    },
+    {
+      "year": "2012",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 8로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2012-10-26"
+    },
+    {
+      "year": "2013",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 8.1로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2013-10-17"
+    },
+    {
+      "year": "2015",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 10로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows는 한 인물이며 버전은 세대 변화입니다.",
+      "date": "2015-07-29"
+    },
+    {
+      "year": "2021",
+      "characterIds": [
+        "c087"
+      ],
+      "title": "윈도우, Windows 11로 버전 승격",
+      "type": "버전 승격",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://news.microsoft.com/facts-about-microsoft/",
+      "body": "Windows 11로 이어지는 세대 변화. 공식 발표는 2021년이며, 날짜는 연도 단위로 기록합니다."
+    },
+    {
+      "year": "1995",
+      "characterIds": [
+        "c001"
+      ],
+      "title": "IE, 브라우저 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://www.microsoft.com/en-us/edge/learning-center/how-internet-explorer-once-took-over-the-web",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2003",
+      "date": "2003-01-07",
+      "characterIds": [
+        "c042"
+      ],
+      "title": "사파리, 브라우저 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://www.apple.com/uk/newsroom/2003/01/07Apple-Unveils-Safari/",
+      "body": "공개 베타 공개를 입사 시점으로 기록합니다."
+    },
+    {
+      "year": "2004",
+      "date": "2004-11-09",
+      "characterIds": [
+        "c041"
+      ],
+      "title": "파이어폭스, 1.0으로 브라우저 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://blog.mozilla.org/en/firefox/firefox-milestones/",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2004",
+      "date": "2004-04-01",
+      "characterIds": [
+        "c065"
+      ],
+      "title": "지메일, 메일 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://blog.google/products-and-platforms/products/gmail/hitting-send-on-the-next-15-years-of-gmail/",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2005",
+      "characterIds": [
+        "c064"
+      ],
+      "title": "유튜브, 영상 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://blog.youtube/news-and-events/happy-birthday-youtube-20/",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2007",
+      "date": "2007-01-09",
+      "characterIds": [
+        "c058"
+      ],
+      "title": "아이폰, 휴대폰 부서 첫 인사",
+      "type": "첫 인사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "body": "제품 발표일에 해당하며 판매 개시일과 구분합니다."
+    },
+    {
+      "year": "2008",
+      "date": "2008-09-02",
+      "characterIds": [
+        "c040"
+      ],
+      "title": "크롬, 브라우저 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://adsense.googleblog.com/2008/09/announcing-google-chrome.html",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2015",
+      "characterIds": [
+        "c072"
+      ],
+      "title": "유튜브 레드, 프리미엄 영상 부서 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://blog.youtube/news-and-events/introducing-youtube-premium/",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "2018",
+      "characterIds": [
+        "c072"
+      ],
+      "title": "유튜브 레드, 프리미엄으로 이름 변경",
+      "type": "이름 변경",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://blog.youtube/news-and-events/introducing-youtube-premium/",
+      "body": "레드와 프리미엄은 동일 인물입니다."
+    },
+    {
+      "year": "2022",
+      "date": "2022-06-15",
+      "characterIds": [
+        "c001"
+      ],
+      "title": "IE, 브라우저 부서 은퇴",
+      "type": "은퇴",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://techcommunity.microsoft.com/blog/windows-itpro-blog/internet-explorer-11-desktop-app-retirement-faq/2366549",
+      "body": "실제 기록은 일부 Windows 10 버전의 IE11 데스크톱 앱 지원 종료입니다. 포차 개업 연도는 미정입니다."
+    },
+    {
+      "year": "2023",
+      "date": "2023-03-14",
+      "characterIds": [
+        "c010"
+      ],
+      "title": "클로드, AI 업계 입사",
+      "type": "입사",
+      "kind": "history",
+      "status": "canon",
+      "source": "https://www.anthropic.com/news/introducing-claude",
+      "body": "실제 기술사의 기록을 인물의 회사 생활로 표현했습니다."
+    },
+    {
+      "year": "연도 미정",
+      "title": "깃허브 · VS Code — 브코 — 연인",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c022",
+        "c023"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "피그마 · 어도비 XD — 과거 연인",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c032",
+        "c033"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "갤럭시 S · 아이폰 — 라이벌 · 묘한 관계",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c045",
+        "c058"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "포크번 · 수파베이스 — 입사 동기 · 친구",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c019",
+        "c018"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "와이파이 · 수파베이스 — 고민을 들어 주는 친구",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c002",
+        "c018"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "2G — 이지 · 인터넷 익스플로러 — 오랜 친구",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c004",
+        "c001"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "갤럭시 북 · 이더넷 — 잘 통하는 친구",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c050",
+        "c008"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "종족연구소 — 종연 도련님 · 공오 — 소중한 마스코트",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c016",
+        "c017"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "4G/LTE — 엘티 · 5G — 오지 — 직속 선후배",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c006",
+        "c007"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "갤럭시 Z 폴드 · 갤럭시 Z 플립 — 쌍둥이 형제",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c046",
+        "c047"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "클로드 · 수파베이스 — 상사 · DB 담당 부하",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c010",
+        "c018"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "수파베이스 · 종족연구소 — 종연 도련님 — 소중히 여기는 도련님",
+      "body": "관계 설정은 확정. 관계의 시작 시점과 구체적인 사건은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "관계",
+      "characterIds": [
+        "c018",
+        "c016"
+      ]
+    },
+    {
+      "year": "연도 미정",
+      "title": "IE, 토큰포차 사장으로 지내다",
+      "body": "IE는 포차 사장, Wi-Fi는 바텐더. 개업과 합류 시점은 미정.",
+      "status": "canon",
+      "kind": "fiction",
+      "type": "포차",
+      "characterIds": [
+        "c001",
+        "c002"
+      ]
+    },
+    {
+      "year": "2008",
+      "date": "2008-04-10",
+      "characterIds": [
+        "c022"
+      ],
+      "title": "깃허브, 코드 보관 부서 입사",
+      "source": "https://github.blog/news-insights/github-s-birthday/",
+      "body": "공식 기술사 기록을 회사 생활로 표현했습니다.",
+      "kind": "history",
+      "type": "입사",
+      "status": "canon"
+    },
+    {
+      "year": "2005",
+      "date": "2005-02-08",
+      "characterIds": [
+        "c066"
+      ],
+      "title": "구글 지도, 길 안내 부서 입사",
+      "source": "https://blog.google/products-and-platforms/products/maps/look-back-15-years-mapping-world/",
+      "body": "공식 기술사 기록을 회사 생활로 표현했습니다.",
+      "kind": "history",
+      "type": "입사",
+      "status": "canon"
+    },
+    {
+      "year": "2016",
+      "characterIds": [
+        "c032"
+      ],
+      "title": "피그마, 협업 디자인 부서 입사",
+      "source": "https://www.figma.com/blog/figma-year-in-review-2018/",
+      "body": "공식 기술사 기록을 회사 생활로 표현했습니다.",
+      "kind": "history",
+      "type": "입사",
+      "status": "canon"
+    },
+    {
+      "year": "2015",
+      "characterIds": [
+        "c062"
+      ],
+      "title": "알파벳, 지주 조직의 책임을 맡다",
+      "source": "https://abc.xyz/assets/investor/static/pdf/2015_alphabet_annual_report.pdf",
+      "body": "공식 기술사 기록을 회사 생활로 표현했습니다.",
+      "kind": "history",
+      "type": "입사",
+      "status": "canon"
+    },
+    {
+      "year": "2004",
+      "characterIds": [
+        "c077"
+      ],
+      "title": "페이스북, SNS 부서 입사",
+      "source": "https://www.meta.com/about/company-info/",
+      "body": "공식 기술사 기록을 회사 생활로 표현했습니다.",
+      "kind": "history",
+      "type": "입사",
+      "status": "canon"
     }
-  ]
+  ],
+  "identityAudit": {
+    "requestedCount": 95,
+    "actualUniqueCount": 93,
+    "categoryCount": 12,
+    "categoryMemberships": 94,
+    "note": "작업 시작 시점과 최초 구현 커밋 모두 고유 인물 93명. 원본 95명 명단은 현재 자료에 없어 차이 2명의 신원을 확정할 수 없음. 추가·삭제 없이 보존.",
+    "aliases": [
+      {
+        "characterId": "c025",
+        "names": [
+          "Illustrator",
+          "일러스트레이터",
+          "일러레"
+        ]
+      },
+      {
+        "characterId": "c072",
+        "names": [
+          "YouTube Red",
+          "YouTube Premium",
+          "유튜브 레드",
+          "유튜브 프리미엄"
+        ]
+      },
+      {
+        "characterId": "c082",
+        "names": [
+          "Twitter",
+          "X",
+          "트위터"
+        ]
+      },
+      {
+        "characterId": "c087",
+        "names": [
+          "Windows 95",
+          "Windows 98",
+          "Windows Me",
+          "Windows XP",
+          "Windows Vista",
+          "Windows 7",
+          "Windows 8",
+          "Windows 8.1",
+          "Windows 10",
+          "Windows 11"
+        ]
+      }
+    ],
+    "unknowns": [
+      "종연의 인물별 호칭 전체 표는 현재 데이터에 없음. 기존 설명의 삼촌·홍보이모·도련님 호칭 보존."
+    ]
+  },
+  "groups": [
+    {
+      "id": "g1",
+      "name": "토큰포차와 인터넷 원로",
+      "type": "모임",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c001",
+        "c002",
+        "c003"
+      ]
+    },
+    {
+      "id": "g2",
+      "name": "통신망 가족",
+      "type": "가문",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c004",
+        "c005",
+        "c006",
+        "c007",
+        "c008"
+      ]
+    },
+    {
+      "id": "g3",
+      "name": "AI 업계",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c009",
+        "c010",
+        "c011",
+        "c012",
+        "c013",
+        "c014",
+        "c015"
+      ]
+    },
+    {
+      "id": "g4",
+      "name": "종족연구소 가족",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c016",
+        "c017",
+        "c018",
+        "c019",
+        "c020",
+        "c021",
+        "c022",
+        "c023",
+        "c024",
+        "c025"
+      ]
+    },
+    {
+      "id": "g5",
+      "name": "디자인·제작 업계",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c025",
+        "c026",
+        "c027",
+        "c028",
+        "c029",
+        "c030",
+        "c031",
+        "c032",
+        "c033",
+        "c034",
+        "c035"
+      ]
+    },
+    {
+      "id": "g6",
+      "name": "마케팅·운영팀",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c036",
+        "c037",
+        "c038",
+        "c039"
+      ]
+    },
+    {
+      "id": "g7",
+      "name": "브라우저 업계",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c040",
+        "c041",
+        "c042",
+        "c043",
+        "c044"
+      ]
+    },
+    {
+      "id": "g8",
+      "name": "갤럭시家 — 삼성 가족",
+      "type": "가문",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c045",
+        "c046",
+        "c047",
+        "c048",
+        "c049",
+        "c050",
+        "c051",
+        "c052",
+        "c053",
+        "c054",
+        "c055",
+        "c056",
+        "c057"
+      ]
+    },
+    {
+      "id": "g9",
+      "name": "애플 가족",
+      "type": "가문",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c058",
+        "c059",
+        "c060",
+        "c061"
+      ]
+    },
+    {
+      "id": "g10",
+      "name": "구글 대가족",
+      "type": "가문",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c062",
+        "c063",
+        "c064",
+        "c065",
+        "c066",
+        "c067",
+        "c068",
+        "c069",
+        "c070",
+        "c071",
+        "c072",
+        "c073",
+        "c074",
+        "c075"
+      ]
+    },
+    {
+      "id": "g11",
+      "name": "SNS·플랫폼 업계",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c076",
+        "c077",
+        "c078",
+        "c079",
+        "c080",
+        "c081",
+        "c082",
+        "c083",
+        "c084",
+        "c085",
+        "c086"
+      ]
+    },
+    {
+      "id": "g12",
+      "name": "개발 도구와 기타",
+      "type": "조직",
+      "description": "기존 도감 분류에 기록된 소속. 구성원 간 세부 혈연과 직급은 확정 관계만 표시합니다.",
+      "members": [
+        "c087",
+        "c088",
+        "c089",
+        "c090",
+        "c091",
+        "c092",
+        "c093"
+      ]
+    },
+    {
+      "id": "tavern-staff",
+      "name": "토큰포차 직원",
+      "type": "조직",
+      "description": "사장 IE와 바텐더 Wi-Fi. 추가 직원 두 명의 이름과 역할은 미정.",
+      "members": [
+        "c001",
+        "c002"
+      ]
+    }
+  ],
+  "referenceNotes": {
+    "legacyChronology": [
+      {
+        "year": "1989",
+        "title": "연대기 시작점",
+        "body": "1989년부터 현재까지의 세계관 기록. 구체적인 사건과 날짜는 확인 후 추가합니다.",
+        "status": "needs-confirmation"
+      }
+    ]
+  }
 }

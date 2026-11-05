@@ -13,7 +13,7 @@ const ids=new Set(data.characters.map(c=>c.id));assert.equal(ids.size,93);
 for(const r of data.relationships){assert(ids.has(r.from));assert(ids.has(r.to));}
 // Exercise the actual schema validator and renderer without launching a second browser.
 const source=fs.readFileSync('app.js','utf8').split("document.addEventListener('click'")[0];
-const context=vm.createContext({console});vm.runInContext(source,context);
+const context=vm.createContext({console,URL,location:{hash:"#tavern/intro"}});vm.runInContext(source,context);
 context.sample=structuredClone(data);
 vm.runInContext('validate(sample); archive=sample;',context);
 for(const view of ['home','characters','relationships','tavern','settings'])assert(vm.runInContext(`${view}()`,context).length>100);
@@ -21,3 +21,33 @@ assert.equal(vm.runInContext("escapeHTML('<img onerror=alert(1)>')",context),'&l
 context.invalid=structuredClone(data);context.invalid.relationships[0].to='missing';assert.throws(()=>vm.runInContext('validate(invalid)',context));
 context.invalid=structuredClone(data);context.invalid.characters[0].status='wrong';assert.throws(()=>vm.runInContext('validate(invalid)',context));
 console.log('PASS: 93 characters, canon corrections, aliases, references, schema rejection, renderers, HTML escaping.');
+
+assert.equal(vm.runInContext("englishName(person('c001'))",context),'Internet Explorer');
+assert.equal(vm.runInContext("card(person('c001')).includes('class=\"icon\"')",context),false);
+assert(vm.runInContext("card(person('c001')).includes('character.html?id=c001')",context));
+const article=vm.runInContext("characterArticle('c001')",context);
+for(const label of ['영어 이름','가문','별명','성별','회사명','가족','개요','관계'])assert(article.includes(label));
+assert(article.includes('토큰포차 / 포차 사장'));
+assert(!article.includes('dialog'));
+assert(vm.runInContext("characterArticle('missing').includes('찾을 수 없어요')",context));
+vm.runInContext("directoryState.query='Internet Explorer'",context);
+assert.equal(vm.runInContext('directoryResults().length',context),1);
+vm.runInContext("directoryState.query='';directoryState.group='브라우저 업계'",context);
+assert.equal(vm.runInContext('directoryResults().length',context),5);
+console.log('PASS: wiki profiles, directory links, English search, group filter, missing character.');
+
+assert.equal(new Set(data.characters.flatMap(c=>c.categories)).size,12);
+assert.equal(data.characters.find(c=>c.id==='c017').gender,'미정');
+assert.deepEqual(data.characters.filter(c=>c.gender==='여').map(c=>c.id).sort(),['c021','c024','c025','c036','c042']);
+for(const view of ['episodes','families','chronology'])assert(vm.runInContext(view+'()',context).length>100);
+for(const id of ids)assert(vm.runInContext('characterArticle('+JSON.stringify(id)+')',context).includes('인물 연대기'));
+assert(!vm.runInContext('home()',context).includes('ARCHIVE STATUS'));
+assert(vm.runInContext('home()',context).includes('내 머릿속 어딘가, 작은 포차 하나.'));
+assert(data.chronology.filter(x=>x.kind==='history').every(x=>x.source&&x.characterIds.length));
+assert(data.chronology.filter(x=>x.kind==='fiction').every(x=>x.year==='연도 미정'));
+for(const g of data.groups)for(const id of g.members)assert(ids.has(id));
+for(const x of data.chronology)for(const id of x.characterIds||[])assert(ids.has(id));
+context.invalid=structuredClone(data);context.invalid.chronology[0].source='javascript:alert(1)';assert.throws(()=>vm.runInContext('validate(invalid)',context));
+context.invalid=structuredClone(data);context.invalid.groups[0].members.push('missing');assert.throws(()=>vm.runInContext('validate(invalid)',context));
+context.invalid=structuredClone(data);context.invalid.chronology[0].characterIds=['missing'];assert.throws(()=>vm.runInContext('validate(invalid)',context));
+console.log('PASS: all 93 wiki renderers, 12 categories, five women, groups, history/fiction, source and reference validation.');

@@ -44,3 +44,8 @@ h1, h2, h3, .brand {
 @media (max-width: 650px) {
   .hero h2 { font-size: 29px; }
 }
+/* Font size follows the compact archive scale in style.css. */
+.hero h2 { font-size:16px; }
+.card .body-text { font-size:13px; }
+.sidebar-bottom p { font-size:11px; }
+@media(max-width:650px){.hero h2{font-size:16px}}

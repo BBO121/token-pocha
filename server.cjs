@@ -3,6 +3,7 @@ const http=require('node:http');
 const fs=require('node:fs/promises');
 const path=require('node:path');
 const files={'/':['index.html','text/html; charset=utf-8'],'/index.html':['index.html','text/html; charset=utf-8'],'/style.css':['style.css','text/css; charset=utf-8'],'/app.js':['app.js','text/javascript; charset=utf-8'],'/data/archive.json':['data/archive.json','application/json; charset=utf-8']};
+files['/character.html']=['character.html','text/html; charset=utf-8'];
 files['/fonts.css']=['fonts.css','text/css; charset=utf-8'];
 for(const name of ['ChosunGu.woff','LeeSeoyun.woff','GangwonEdu_OTFLightA.woff','GangwonEdu_OTFBoldA.woff']) files['/assets/fonts/'+name]=['assets/fonts/'+name,'font/woff'];
 const port=Number(process.env.PORT||4173);
